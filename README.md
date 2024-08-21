@@ -15,15 +15,19 @@ excludes    weekends
 section HW Design
     Schematic                           :active, des1, 2024-08-01, 2024-08-15
     PCB Layout                          :des2, 2024-08-10, 2024-08-25
+    Enclosure design                    :des3, 2024-08-16, 2024-08-25
     
 section SW Design
-    FW Design                           :des3, 2024-08-25, 2024-09-10
-    Driver Design                       :des4, 2024-09-05, 2024-09-20
+    FW Design                           :des5, 2024-08-25, 2024-09-10
+    Driver design                       :des6, 2024-09-05, 2024-09-20
 
-section Prototyping
-    HW Testing                          :des5, 2024-09-20, 2024-10-05
-    SW Testing                          :des6, 2024-09-30, 2024-10-15
-    Integration                         :crit, 2024-09-30, 2024-10-20
+section LAB Tests
+    HW Tests                            :des7, 2024-09-20, 2024-10-10
+    Enclosure Tests                     :des4, 2024-09-25, 2024-10-10
+    SW Tests                            :des8, 2024-09-30, 2024-10-15
+
+section Integration
+    Final integration                   :crit, dest10, 2024-10-05, 2024-10-20
 
 section Documentation
     Documentation                       :2024-10-20, 2024-11-05
